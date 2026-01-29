@@ -2,4 +2,4 @@
 This is my first learning in Git & Github
 this is new change
 
-# this is the buug branch changes
+# this is the feature branch changes
