@@ -5,3 +5,4 @@ This project is about learning Git basics with DevOps focus - main
 
 # commit 1
 
+# commit 2
